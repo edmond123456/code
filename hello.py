@@ -14,7 +14,7 @@ from naoqi import ALProxy
 motion = ALProxy("ALMotion", "192.168.1.69", 9559)
 tts = ALProxy("ALTextToSpeech", "192.168.1.69", 9559)
 motion.wakeUp()
-tts.say("こんにちは、私はpepperです。")
+tts.say("こんにちは、私はpepper1です。")
 
 
 
