@@ -6,7 +6,7 @@ Created on 2018/05/16 pepperの動き精度テスト
 
 pepper 最大速度 0.55m/s
 
-test
+tes
 """
 
 from naoqi import ALProxy
